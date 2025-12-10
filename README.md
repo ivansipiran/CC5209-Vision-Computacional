@@ -29,7 +29,6 @@
 * Redes neuronales
     * MNIST multiclase [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC5209-Vision-Computacional/blob/main/Notebooks/07_MNIST_multiclass.ipynb)
     * Arquitecturas CNN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC5209-Vision-Computacional/blob/main/Notebooks/07_CNN_Architectures.ipynb)
-    * Transfer learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC5209-Vision-Computacional/blob/main/Notebooks/07_Transfer_Learning.ipynb)
 * Detección de objetos [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC5209-Vision-Computacional/blob/main/Notebooks/09_Yolov8_Finetuning.ipynb)
 * Segmentación semántica [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC5209-Vision-Computacional/blob/main/Notebooks/10_UNet_ResNet18_Segmentation.ipynb)
 * Procesamiento de video [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC5209-Vision-Computacional/blob/main/Notebooks/11_Video_Classification.ipynb)
