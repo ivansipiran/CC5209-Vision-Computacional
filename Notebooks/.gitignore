@@ -1,3 +1,9 @@
 Imagenes*
 pycalib*
 camera_calibration_images*
+data*
+output*
+*.zip
+*.pt
+mnist*
+*.pth
