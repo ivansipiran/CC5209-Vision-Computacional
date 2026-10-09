@@ -7,3 +7,5 @@ output*
 *.pt
 mnist*
 *.pth
+runs*
+datasets*
