@@ -9,3 +9,4 @@ mnist*
 *.pth
 runs*
 datasets*
+pytorch-unet*
