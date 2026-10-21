@@ -10,3 +10,5 @@ mnist*
 runs*
 datasets*
 pytorch-unet*
+*.mp4
+*.json
