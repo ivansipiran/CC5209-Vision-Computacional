@@ -17,6 +17,7 @@
 * Self-supervised learning [Slides](./Slides/Tema13_SSL.pdf)
 * Modelos generativos [Slides](./Slides/Tema14_ModelosGenerativos.pdf)
 * Modelos multimodales [Slides](./Slides/Tema15_ModelosMultimodales.pdf)
+* Tutorial modelos generativos y multimodales [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivansipiran/CC5209-Vision-Computacional/blob/main/Notebooks/generative_multimodal.ipynb)
 
 ## Laboratorios
 
